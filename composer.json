@@ -1,0 +1,19 @@
+{
+    "name": "radex171/shop",
+    "description": "a project to learn PHP using AI mentoring",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Radex171\\Shop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "radex171",
+            "email": "radex171@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

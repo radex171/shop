@@ -1,0 +1,11 @@
+{
+    "name": "radek/shop",
+    "description": "Simple PHP shop project for learn",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Radek\\Shop\\": "src/"
+        }
+    },
+    "require": {}
+}
